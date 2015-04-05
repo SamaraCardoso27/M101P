@@ -1,7 +1,7 @@
 # M101P
 M101P: MONGODB FOR DEVELOPERS
 
-Week 1: Introduction
+<h1>Week 1: Introduction</h1>
 
 Quiz: Welcome to M101P
 
